@@ -1,0 +1,58 @@
+:root {
+	--blue: #0084ff;
+	--green: #30d158;
+	--indigo: #5e5ce6;
+	--orange: #ff9f0a;
+	--pink: #ff375f;
+	--purple: #bf5af2;
+	--red: #ff453a;
+	--teal: #64d2ff;
+	--yellow: #ffd60a;
+	--gray: #d1d1d6;
+	--gray1: #8e8e93;
+	--gray2: #636366;
+	--gray3: #48484a;
+	--gray4: #3a3a3c;
+	--gray5: #2c2c2e;
+	--gray6: #1c1c1e;
+	--dark-but-not-black: #181818;
+	--somewhat-black: #111;
+	--black: #000;
+}
+
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	height: 100vh;
+	font-family: monospace;
+	scroll-behavior:unset
+}
+
+input {
+	background-color: var(--dark-but-not-black);
+	color: #fff;
+	width: 300px;
+	height: 40px;
+	border: none;
+	border-radius: 7px;
+	font-size: 18px;
+	padding-left: 10px;
+}
+
+button {
+	margin: 20px;
+	background-color: var(--indigo);
+	color: #fff;
+	width: 150px;
+	height: 40px;
+	border: none;
+	border-radius: 7px;
+	font-size: 18px;
+	padding-left: 10px;
+	cursor: pointer;
+}
+button:hover {
+	background-color: var(--blue);
+}
