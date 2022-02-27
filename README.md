@@ -1,6 +1,6 @@
 <div align="center">
   <a href=""><img src="https://i.imgur.com/4pfDxSh.png" alt="" width="200px"></a>
-<h2 align="center">A powerful boilerplate to kickstart your next Electron Project!
+<h2 align="center">A powerful desktop app for generate password
 </div>
 <br>
 <p align="center">
@@ -10,12 +10,3 @@
     </a>
 </p>
 
----
-
-<div align="center">
-
-Website : [sanjaysunil.me](https://sanjaysunil.me) &nbsp;&middot;&nbsp;
-Email : [sanjaysunil@protonmail.com](mailto:sanjaysunil@protonmail.com) &nbsp;&middot;&nbsp;
-Discord : [D3VSJ#3158](https://discordapp.com/users/732336924559278181)
-
-</div>
